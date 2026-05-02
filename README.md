@@ -1,6 +1,6 @@
 <br>
-<img src="./assets/bonsoir.gif" width="30%" alt="Bonsoir!">
-<br><br>
+<img src="./assets/bonsoir.gif" width="35%" alt="Bonsoir!">
+<br>
 
 Aqui é onde posto meus códigos. Óbvio né.
 
