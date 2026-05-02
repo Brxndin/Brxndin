@@ -1,5 +1,7 @@
 <br>
-<img src="./assets/bonsoir.gif" width="35%" alt="Bonsoir!">
+<p align="center">
+    <img src="./assets/bonsoir.gif" width="35%" alt="Bonsoir!">
+</p>
 <br>
 
 Aqui é onde posto meus códigos. Óbvio né.
