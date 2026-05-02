@@ -1,16 +1,40 @@
-## Hi there 👋
+<br>
+<img src="./assets/bonsoir.gif" width="30%" alt="Bonsoir!">
+<br><br>
 
-<!--
-**Brxndin/Brxndin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui é onde posto meus códigos. Óbvio né.
 
-Here are some ideas to get you started:
+<br><br>
+<img src="./assets/sobre-mim.gif" width="20%" alt="Sobre mim">
+<br>
+<img src="./assets/underline.gif" width="30%">
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Trabalho com PHP, mas em casa é só JS/TS.
+* Estou aprendendo mais sobre Clean Architecture, SOLID e Domain-Driven Design.
+* Meus hobbies são jogos, leitura e música.
+* Gosto de personalizar meu Arch Linux, o que me fez aprender um pouco sobre sistemas operacionais. As dotfiles estão disponíveis [aqui](https://github.com/Brxndin/Arch-Hyprland).
+
+<br><br>
+<img src="./assets/ferramentas.gif" width="20%" alt="Ferramentas">
+<br>
+<img src="./assets/underline.gif" width="30%">
+<br>
+
+Ferramentas que eu uso no dia a dia.
+
+![Ferramentas](https://skillicons.dev/icons?i=js,html,css,ts,php,nodejs,react,express,laravel,postgres,docker,arch)
+
+<br><br>
+<img src="./assets/repositorios.gif" width="20%" alt="Repositórios">
+<br>
+<img src="./assets/underline.gif" width="30%">
+<br>
+
+Repositórios em destaque (porque eu gosto mais deles):
+
+- **[Cripta:](https://github.com/Brxndin/Cripta)** Jogo roguelike feito com HTML, CSS e JavaScript. `Status: parado, mas um dia eu volto`
+- **[Arch + Hyprland:](https://github.com/Brxndin/Arch-Hyprland)** Dotfiles das personalizações que fiz (com a grande ajuda do Gemini) no sistema operacional que uso. `Status: sempre tem o que melhorar`
+
+<br>
+<img src="./assets/underline.gif" width="30%">
