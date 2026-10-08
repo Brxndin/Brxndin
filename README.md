@@ -4,6 +4,7 @@
 </p>
 <br>
 
+Bem vindo!
 Aqui é onde posto meus códigos. Óbvio né.
 
 <br><br>
@@ -12,8 +13,9 @@ Aqui é onde posto meus códigos. Óbvio né.
 <img src="./assets/underline.gif" width="30%">
 <br>
 
-* Trabalho com PHP, mas em casa é só JS/TS.
-* Estou aprendendo mais sobre Clean Architecture, SOLID e Domain-Driven Design.
+* Já trabalhei profissionalmente por bastante tempo com PHP e Laravel em um sistema financeiro, então entendo um pouco sobre a área.
+* Atualmente tenho usado mais JavaScript e TypeScript. É mais legal.
+* Gosto de aprender sobre conceitos e tecnologias novas.
 * Meus hobbies são jogos, leitura e música.
 * Gosto de personalizar meu Arch Linux, o que me fez aprender um pouco sobre sistemas operacionais. As dotfiles estão disponíveis [aqui](https://github.com/Brxndin/Arch-Hyprland).
 
@@ -35,8 +37,9 @@ Ferramentas que eu uso no dia a dia.
 
 Repositórios em destaque (porque eu gosto mais deles):
 
-- **[Cripta:](https://github.com/Brxndin/Cripta)** Jogo roguelike feito com HTML, CSS e JavaScript. `Status: parado, mas um dia eu volto`
-- **[Arch + Hyprland:](https://github.com/Brxndin/Arch-Hyprland)** Dotfiles das personalizações que fiz (com a grande ajuda do Gemini) no sistema operacional que uso. `Status: sempre tem o que melhorar`
+- **[Cripta:](https://github.com/Brxndin/Cripta)** Jogo roguelike feito com HTML, CSS e JavaScript. `Status: parado`
+- **[Arch + Hyprland:](https://github.com/Brxndin/Arch-Hyprland)** Dotfiles das personalizações que fiz (com a grande ajuda do Gemini) no sistema operacional que uso. `Status: atualizado constantemente`
+- **[Magic Flasks:](https://github.com/Brxndin/magic-flasks)** Sistema de simulação de pedidos, preparação e entregas de poções. Foi feito para um trabalho da faculdade e para aprender a integrar design patterns diferentes num mesmo sistema. `Status: em desenvolvimento`
 
 <br>
 <img src="./assets/underline.gif" width="30%">
